@@ -29,7 +29,7 @@ Este es el módulo donde todo lo que has leído hasta ahora empieza a apuntar ha
 Es fácil leer Génesis 2:18 y pensar que la respuesta de Dios a la soledad humana se limita al matrimonio. Tiene sentido leerlo así: el texto termina, después de todo, con la creación de Eva y la primera unión conyugal de la historia.
 
 > *«Y dijo Jehová Dios: No es bueno que el hombre esté solo; le haré ayuda idónea para él… Por tanto, dejará el hombre a su padre y a su madre, y se unirá a su mujer, y serán una sola carne.»*
-> **Génesis 2:18, 24 (RVR1960)**
+> **(Génesis 2:18, 24, RVR1960)**
 
 Pero limitar la respuesta de Dios al matrimonio deja fuera a una parte enorme de las personas que están leyendo este libro — quienes no se han casado, quienes ya no lo están, quienes nunca sintieron ese llamado. Y deja fuera, también, al propio Jesús: el hombre que mejor resolvió la soledad humana en toda la historia nunca se casó, y sin embargo tuvo una vida relacional profundamente rica — los Doce que lo acompañaban a todas partes, las mujeres que lo seguían y sostenían su ministerio (Lc 8:1-3), la casa de Marta, María y Lázaro en Betania, donde claramente encontraba un espacio de descanso y cercanía real (Jn 11:5).
 
@@ -38,14 +38,14 @@ Vale la pena anticipar una objeción razonable: alguien podría pensar que a Jes
 Pablo va más allá del ejemplo narrativo y lo convierte en enseñanza explícita. Escribiendo a los Corintios, no describe la soltería como una carencia transitoria mientras llega el matrimonio, sino como un don:
 
 > *«Quisiera más bien que todos los hombres fuesen como yo; pero cada uno tiene su propio don de Dios, uno a la verdad de un modo, y otro de otro. Digo, pues, a los solteros y a las viudas, que bueno les es si se quedaren como yo.»*
-> **1 Corintios 7:7-8 (RVR1960)**
+> **(1 Corintios 7:7-8, RVR1960)**
 
 Pablo añade que la soltería permite un tipo de disponibilidad que el matrimonio, por su propia naturaleza, no ofrece de la misma manera — «para que sin impedimento os acerquéis al Señor» (1 Co 7:35). No es una jerarquía: la Escritura no dice que la soltería sea superior al matrimonio, ni al revés. Es, simplemente, la confirmación de que ninguno de los dos estados agota, por sí solo, la respuesta de Dios a la soledad.
 
 Lo que Génesis 2:18 revela no es que el matrimonio sea la única respuesta a la soledad. Es que Dios diseñó al ser humano para no vivir aislado, en cualquiera de las formas legítimas que esa compañía pueda tomar — cónyuge, familia, amistad profunda, comunidad de fe. El matrimonio es una expresión de ese diseño, no su única expresión posible. Por eso la Escritura, más adelante, describe con la misma seriedad teológica la compañía que no depende del matrimonio en absoluto:
 
 > *«Mejor son dos que uno; porque tienen mejor paga de su trabajo. Porque si cayeren, el uno levantará a su compañero; pero ¡ay del solo! que cuando cayere, no habrá segundo que lo levante… y cordón de tres dobleces no se rompe pronto.»*
-> **Eclesiastés 4:9-10, 12 (RVR1960)**
+> **(Eclesiastés 4:9-10, 12, RVR1960)**
 
 No habla de esposos. Habla, en un sentido mucho más amplio, de cualquier vínculo de compañía verdadera — el que te levanta cuando caes, el que multiplica tu fuerza, el que no se rompe fácilmente porque son varios hilos trenzados, no uno solo.
 
@@ -54,7 +54,7 @@ No habla de esposos. Habla, en un sentido mucho más amplio, de cualquier víncu
 Si recuerdas el Módulo 2, la indiferencia era la herida de sentir que tu presencia no genera ninguna diferencia real, que eres —en la práctica— prescindible. Pablo, escribiendo a la iglesia de Corinto, describe una imagen que es la respuesta teológica directa a esa herida: la comunidad de fe no es un grupo de personas intercambiables, sino un cuerpo, donde cada parte tiene una función que ninguna otra puede cumplir de la misma manera.
 
 > *«Ni el ojo puede decir a la mano: No te necesito; ni tampoco la cabeza a los pies: No tengo necesidad de vosotros… antes bien los miembros del cuerpo que parecen más débiles, son los más necesarios.»*
-> **1 Corintios 12:21-22 (RVR1960)**
+> **(1 Corintios 12:21-22, RVR1960)**
 
 Fíjate en el giro que da el texto: no dice que a pesar de ser débiles, los miembros más frágiles se toleran. Dice que son *los más necesarios*. En el diseño de Dios para la comunidad, no hay lugar para la indiferencia, porque no hay ningún miembro cuya ausencia sea neutral. Si esto es verdad, entonces tu presencia en una comunidad real —no en una multitud anónima, sino en un cuerpo donde te conocen— nunca es prescindible, sin importar cuánto te haya convencido lo contrario la herida de la indiferencia.
 
@@ -63,7 +63,7 @@ Fíjate en el giro que da el texto: no dice que a pesar de ser débiles, los mie
 La teología del cuerpo no se queda en la abstracción en el Nuevo Testamento. El libro de Hechos describe, con un detalle casi doméstico, cómo se veía esto en la práctica cotidiana de los primeros creyentes:
 
 > *«Y perseveraban en la doctrina de los apóstoles, y en la comunión unos con otros, y en el partimiento del pan, y en las oraciones… Y todos los días, perseverando unánimes en el templo, y partiendo el pan en las casas, comían juntos con alegría y sencillez de corazón.»*
-> **Hechos 2:42, 46 (RVR1960)**
+> **(Hechos 2:42, 46, RVR1960)**
 
 No era una reunión formal, semanal, distante. Era gente comiendo junta, todos los días, en las casas de unos y otros. La respuesta bíblica a la soledad no es solamente doctrinal — es extraordinariamente concreta: mesas compartidas, puertas abiertas, tiempo real invertido en presencia real.
 
@@ -94,7 +94,7 @@ Eclesiastés no solo describe el valor de la compañía; sugiere, en su misma im
 Hay que decir algo más, con la misma honestidad con la que este libro ya reconoció el desamparo y la indiferencia en el Módulo 2: dar el primer paso no garantiza que te reciban bien. Puedes intentarlo y que la otra persona responda con indiferencia, o que la vulnerabilidad que ofreciste no sea correspondida. Si eso ya te ha pasado, el temor a intentarlo de nuevo es comprensible, no una debilidad. Jesús mismo advirtió a sus discípulos que no toda puerta se abriría:
 
 > *«Y todos los que no os recibieren, salid de aquella ciudad, y sacudid el polvo de vuestros pies en testimonio contra ellos.»*
-> **Lucas 9:5 (RVR1960)**
+> **(Lucas 9:5, RVR1960)**
 
 No les pidió que insistieran donde no había espacio, ni que dejaran de tocar otras puertas. La vulnerabilidad sabia no se entrega toda de una vez a la primera persona disponible — se ofrece en dosis pequeñas y crecientes, y se profundiza solo con quien la recibe bien.
 
@@ -107,7 +107,7 @@ En el Módulo 1 conociste a Noemí en el momento más oscuro de su historia, cua
 Rut, su nuera, decide no abandonarla —«adondequiera que tú fueres, iré yo» (Rut 1:16)—, y esa lealtad concreta, encarnada, es el primer hilo del cordón. Booz, pariente de la familia, actúa como redentor, cumpliendo un papel que la ley y la costumbre de Israel habían diseñado precisamente para que nadie quedara completamente desamparado dentro de la comunidad (Rut 4:9-10). Y cuando nace el hijo de Rut y Booz, no son solo los padres quienes celebran:
 
 > *«Y las mujeres decían a Noemí: Loado sea Jehová, que hizo que no te faltase hoy pariente… Y Noemí tomó al hijo, y lo puso en su regazo, y fue su ama. Y las vecinas decían: Le ha nacido un hijo a Noemí.»*
-> **Rut 4:14, 16-17 (RVR1960)**
+> **(Rut 4:14, 16-17, RVR1960)**
 
 Las vecinas. La comunidad entera del pueblo participa, activamente, en nombrar la restauración de Noemí — no como espectadoras, sino como parte del mismo tejido que la sostiene. La mujer que se llamó a sí misma «vacía» termina rodeada, otra vez, de gente que la ve, la celebra y la reclama como suya. Eso es, en una sola historia completa, todo lo que este módulo ha querido mostrarte: el vacío no se resuelve en aislamiento. Se resuelve en comunión.
 
@@ -133,7 +133,7 @@ El primer desayuno fue un poco torpe — dos adultos sin práctica reciente en c
 Todo lo que hemos recorrido en este libro —el vacío que antecede al orden, la soledad que persiste en compañía, las heridas que deja el desamparo y la indiferencia, el vacío del sentido, la soledad que se elige— converge aquí, en la misma verdad con la que Dios respondió desde el principio: no fuiste diseñado para llevar esto solo.
 
 > *«Y considerémonos unos a otros para estimularnos al amor y a las buenas obras; no dejando de congregarnos, como algunos tienen por costumbre, sino exhortándonos.»*
-> **Hebreos 10:24-25 (RVR1960)**
+> **(Hebreos 10:24-25, RVR1960)**
 
 En el próximo módulo vamos a hablar de algo que quizás ya estás anticipando: si tu vacío o tu soledad tienen una raíz más profunda y más antigua, ¿cuál es el camino concreto, paso a paso, para restaurarla?
 

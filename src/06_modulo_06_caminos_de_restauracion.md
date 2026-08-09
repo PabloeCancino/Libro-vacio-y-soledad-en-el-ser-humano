@@ -31,17 +31,17 @@ Camila sabe, después de leer los módulos anteriores de este libro, exactamente
 La parábola del hijo pródigo, de la que ya conociste al hermano mayor en el Módulo 1, también describe con extraordinario detalle el camino de restauración del hermano menor — el que se fue, gastó todo lo que tenía, y terminó cuidando cerdos, deseando comer lo que ni siquiera a los cerdos se les daba. El giro de toda la historia empieza con una sola frase:
 
 > *«Y volviendo en sí, dijo: ¡Cuántos jornaleros en casa de mi padre tienen abundancia de pan, y yo aquí perezco de hambre!»*
-> **Lucas 15:17 (RVR1960)**
+> **(Lucas 15:17, RVR1960)**
 
 *Volviendo en sí* — como quien despierta de un sueño, o de un estado de negación sostenido durante demasiado tiempo. No es todavía la restauración. Es el primer momento de claridad, la primera vez que el hijo se ve a sí mismo con precisión, sin adornos ni excusas. Ese momento de claridad lo lleva, de inmediato, a una decisión concreta:
 
 > *«Me levantaré e iré a mi padre.»*
-> **Lucas 15:18 (RVR1960)**
+> **(Lucas 15:18, RVR1960)**
 
 No dice «pensaré en volver algún día». Dice «me levantaré e iré» — un verbo de movimiento inmediato, no de intención vaga. Y lo que sucede cuando emprende ese camino es, quizás, el detalle más conmovedor de toda la parábola:
 
 > *«Y cuando aún estaba lejos, lo vio su padre, y fue movido a misericordia, y corrió, y se echó sobre su cuello, y le besó.»*
-> **Lucas 15:20 (RVR1960)**
+> **(Lucas 15:20, RVR1960)**
 
 El padre no espera a que el hijo llegue completamente, con el discurso perfecto de arrepentimiento ya ensayado. Lo ve *cuando aún estaba lejos* — lo cual significa que el padre lo estaba esperando, mirando el camino, listo para correr al primer indicio de que su hijo regresaba. No tienes que completar el camino solo, ni perfectamente, para que la gracia te alcance. Solo tienes que empezar a moverte.
 
@@ -50,12 +50,12 @@ El padre no espera a que el hijo llegue completamente, con el discurso perfecto 
 Hay otra escena de restauración, distinta en su forma pero igual de precisa en lo que enseña, al final del Evangelio de Juan. Pedro había negado a Jesús tres veces la noche de su arresto — la traición más dolorosa de todo el círculo cercano de Jesús, viniendo precisamente de quien había prometido morir antes que negarlo. Después de la resurrección, en lugar de esperar a que Pedro fuera a buscarlo con una disculpa, Jesús toma la iniciativa:
 
 > *«Vino, pues, Jesús, y tomó el pan y les dio a ellos, y asimismo del pescado.»*
-> **Juan 21:13 (RVR1960)**
+> **(Juan 21:13, RVR1960)**
 
 Un desayuno, en una playa, preparado por el mismo Jesús. No un sermón sobre la traición. Comunión compartida, primero, antes que cualquier conversación difícil — el mismo patrón que ya viste en el Módulo 5. Y después de comer, Jesús hace algo extraordinariamente preciso: le pregunta a Pedro, tres veces, «¿me amas?» —una pregunta por cada una de las tres negaciones—, y tres veces le encarga una tarea concreta:
 
 > *«Apacienta mis corderos… Pastorea mis ovejas… Apacienta mis ovejas.»*
-> **Juan 21:15-17 (RVR1960)**
+> **(Juan 21:15-17, RVR1960)**
 
 Jesús no sana la herida en general. La sana específicamente, en el mismo número, casi en el mismo lugar donde se produjo. Y no termina con un simple «te perdono» — termina devolviéndole a Pedro un propósito, una tarea real, una razón para seguir adelante. La restauración bíblica, en ambos textos, sigue el mismo patrón: reconocimiento honesto, movimiento concreto, encuentro que no esperas merecer del todo, sanidad específica, y un propósito recuperado.
 
@@ -138,7 +138,7 @@ Una noche, una mujer nueva en el grupo se queda después de que las demás se ha
 El camino que has leído en este módulo no es una fórmula que garantice que nunca más vas a sentir vacío ni soledad. Es, más bien, la certeza de que hay un camino — que no estás condenado a quedarte donde estás, y que Alguien ya está corriendo hacia ti, incluso mientras todavía estás lejos.
 
 > *«Y cuando aún estaba lejos, lo vio su padre, y fue movido a misericordia, y corrió, y se echó sobre su cuello, y le besó.»*
-> **Lucas 15:20 (RVR1960)**
+> **(Lucas 15:20, RVR1960)**
 
 En el próximo módulo vamos a hablar de algo que probablemente ya te ha pasado por la mente: cómo acompañar a alguien más que reconoces cargando lo mismo que tú acabas de nombrar.
 

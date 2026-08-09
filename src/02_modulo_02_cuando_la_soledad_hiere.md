@@ -29,14 +29,14 @@ Este módulo es sobre eso: sobre las formas concretas en que la soledad deja de 
 Hay una escena en Génesis que es difícil de leer sin que se te encoja el pecho. Agar, expulsada de la casa de Abraham junto a su hijo Ismael, camina por el desierto de Beerseba hasta que se le acaba el agua. Lo que hace después es de las imágenes más desoladoras de toda la Escritura:
 
 > *«Y se fue y se sentó enfrente, a distancia de un tiro de arco; porque decía: No veré cuando el muchacho muera. Y cuando ella se sentó enfrente, el muchacho alzó su voz y lloró.»*
-> **Génesis 21:16 (RVR1960)**
+> **(Génesis 21:16, RVR1960)**
 
 Agar no puede protegerlo. No tiene a quién pedir ayuda. No hay ninguna figura significativa cerca que pueda sostenerla en el momento más vulnerable de su vida. Aparta la mirada porque no soporta ver morir a su hijo con sus propias manos vacías. Eso es, en su forma más pura, el desamparo: no simplemente estar solo, sino estar solo exactamente cuando más necesitas no estarlo. Es enfrentar una tormenta sin ningún refugio disponible.
 
 Y entonces, en el punto más bajo de esa escena, ocurre lo que hace de este pasaje una de las respuestas más contundentes de la Biblia al desamparo:
 
 > *«Y oyó Dios la voz del muchacho; y el ángel de Dios llamó a Agar desde el cielo, y le dijo: ¿Qué tienes, Agar? No temas, porque Dios ha oído la voz del muchacho en donde está.»*
-> **Génesis 21:17 (RVR1960)**
+> **(Génesis 21:17, RVR1960)**
 
 Dios no llega con una explicación filosófica del sufrimiento. Llega abriéndole los ojos a un pozo de agua que estaba ahí todo el tiempo, y que ella no había podido ver desde su desesperación. Ese es el patrón: el desamparo dice «nadie ve, nadie sostiene, estás sola». Dios responde siendo, literalmente, el Dios que ve — *El Roi*, el nombre que Agar misma le da unos capítulos antes (Gn 16:13), la primera persona en toda la Escritura que le pone un nombre propio a Dios.
 
@@ -45,12 +45,12 @@ Dios no llega con una explicación filosófica del sufrimiento. Llega abriéndol
 Hay otra forma de soledad, más silenciosa que el desamparo, que no grita ni pide auxilio: simplemente pasa desapercibida. En Marcos 5 hay una mujer que lleva doce años enferma de flujo de sangre — doce años de aislamiento ritual, doce años de gastar en médicos sin ningún resultado, doce años de ser, socialmente, invisible. El texto lo dice sin rodeos:
 
 > *«Y había sufrido mucho de muchos médicos, y gastado todo lo que tenía, y nada había aprovechado, antes le iba peor.»*
-> **Marcos 5:26 (RVR1960)**
+> **(Marcos 5:26, RVR1960)**
 
 Cuando Jesús camina rodeado de una multitud que lo aprieta por todos lados, esta mujer se acerca por detrás y toca apenas el borde de su manto. Es un gesto diseñado para no ser notado: doce años de invisibilidad la han entrenado a pedir lo mínimo posible, a no reclamar espacio, a esperar no ser vista ni siquiera en el momento de buscar ayuda. Pero Jesús se detiene, en medio de una multitud entera que lo empuja sin ningún reparo, y pregunta:
 
 > *«¿Quién ha tocado mis vestidos?»*
-> **Marcos 5:30 (RVR1960)**
+> **(Marcos 5:30, RVR1960)**
 
 Sus propios discípulos le responden, casi con incredulidad, que la multitud entera lo está tocando y empujando —¿cómo va a saber quién fue? Pero Jesús no busca a la multitud. Busca a la persona. Y cuando la mujer, temblando, se identifica, Él no la reprende por haberlo tocado sin permiso. Le habla directamente, la llama «hija», y le dice que su fe la ha salvado. En una multitud que la rodeaba sin verla, Jesús es el único que se detiene específicamente por ella.
 
@@ -99,7 +99,7 @@ Puedes tener doscientos contactos en tu teléfono y ni uno solo a quien llamarí
 La historia de Fernando con la que abrió este módulo no es un caso raro. Es, cada vez más, la norma. Y la Escritura, escrita miles de años antes de que existiera una sola pantalla, ya nombraba la diferencia entre tener mucha gente alrededor y tener a alguien de verdad:
 
 > *«El hombre que tiene amigos ha de mostrarse amigo; y amigo hay más unido que un hermano.»*
-> **Proverbios 18:24 (RVR1960)**
+> **(Proverbios 18:24, RVR1960)**
 
 El proverbio distingue, con toda intención, entre «tener amigos» —en plural, en cantidad— y «un amigo» —en singular, en profundidad—. Las plataformas digitales están construidas, casi todas, para maximizar lo primero: cuánta gente ve tu contenido, cuánta gente reacciona, cuánta gente te sigue. Ninguna de esas métricas mide lo segundo. Puedes tener miles de personas viendo tu vida y ni una que la conozca de verdad.
 
@@ -157,7 +157,7 @@ Nadie le da «me gusta» a ese mensaje. No lo ve nadie más que su amigo. Pero e
 El desamparo dice que nadie viene. La indiferencia dice que nadie nota. La hiperconexión promete que ya no importa, porque siempre hay alguien conectado. Pero la Escritura que has leído en este módulo cuenta otra historia: un Dios que ve a la mujer entre la multitud, que abre los ojos de Agar al pozo que ya estaba ahí, y que sigue diciendo lo mismo hoy que dijo entonces.
 
 > *«No temas, porque yo estoy contigo; no desmayes, porque yo soy tu Dios que te esfuerzo; siempre te ayudaré, siempre te sustentaré con la diestra de mi justicia.»*
-> **Isaías 41:10 (RVR1960)**
+> **(Isaías 41:10, RVR1960)**
 
 En el próximo módulo vamos a mirar una forma distinta de vacío: la que no viene de sentirte sin compañía, sino de no saber para qué vives, aunque tengas todo lo que se supone que debería bastarte.
 

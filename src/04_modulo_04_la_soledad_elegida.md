@@ -31,22 +31,22 @@ Todo lo que hemos visto hasta ahora en este libro es soledad como problema: algo
 Justo después de una noche agotadora —sanando enfermos, expulsando demonios, hasta que «toda la ciudad se agolpó a la puerta» (Mr 1:33)—, el relato de Marcos registra algo que fácilmente podrías pasar por alto si lees demasiado rápido:
 
 > *«Levantándose muy de mañana, siendo aún muy oscuro, salió y se fue a un lugar desierto, y allí oraba.»*
-> **Marcos 1:35 (RVR1960)**
+> **(Marcos 1:35, RVR1960)**
 
 No espera a estar exhausto para retirarse. Se levanta antes del amanecer, cuando nadie más está despierto todavía, y se va, solo, a un lugar sin gente. El texto griego detrás de este pasaje sugiere algo importante: no fue una excepción única, sino un patrón que se repetía. Lucas lo confirma unos capítulos después con una frase que describe, precisamente, un hábito constante:
 
 > *«Mas él se apartaba a lugares desiertos, y oraba.»*
-> **Lucas 5:16 (RVR1960)**
+> **(Lucas 5:16, RVR1960)**
 
 *Se apartaba* — no «se apartó», una sola vez, sino algo que hacía una y otra vez, como ritmo, como disciplina sostenida a lo largo de todo su ministerio. Y este patrón no aparece únicamente en los momentos de cansancio. Antes de tomar una de las decisiones más importantes de todo su ministerio —elegir a los doce apóstoles que llevarían el evangelio al mundo entero—, el texto dice:
 
 > *«En aquellos días él fue al monte a orar, y pasó la noche orando a Dios.»*
-> **Lucas 6:12 (RVR1960)**
+> **(Lucas 6:12, RVR1960)**
 
 Una noche entera, solo, antes de una decisión que no podía tomar desde el cansancio ni desde la presión de la multitud. Y quizás el ejemplo más sorprendente de todos ocurre justo después de uno de los momentos de mayor éxito público de todo su ministerio — la multiplicación de los panes y los peces, cuando cinco mil hombres, más mujeres y niños, acababan de ser alimentados y la popularidad de Jesús estaba en su punto más alto:
 
 > *«Y despedida la multitud, subió al monte, apartado, a orar; y cuando llegó la noche, estaba allí solo.»*
-> **Mateo 14:23 (RVR1960)**
+> **(Mateo 14:23, RVR1960)**
 
 En el momento de mayor demanda, de mayor éxito, de mayor posibilidad de quedarse rodeado de una multitud que lo aclamaba, Jesús elige, deliberadamente, la soledad. Eso no es evasión. Es prioridad.
 
@@ -59,7 +59,7 @@ Antes de seguir adelante, hay una distinción que este libro no puede pasar por 
 Recuerda la primera vez que un ser humano decide, deliberadamente, apartarse de la presencia de Dios:
 
 > *«Y oyeron la voz de Jehová Dios que se paseaba en el huerto, al aire del día; y el hombre y su mujer se escondieron de la presencia de Jehová Dios entre los árboles del huerto.»*
-> **Génesis 3:8 (RVR1960)**
+> **(Génesis 3:8, RVR1960)**
 
 Adán y Eva también «se apartan». También buscan un lugar sin la presencia de otro. Pero la dirección de ese movimiento es exactamente opuesta a la de Jesús: ellos se esconden *de* Dios, por vergüenza, por miedo, por la ruptura que acaba de ocurrir. Jesús se retira *hacia* Dios, por comunión, por prioridad, por amor. La forma exterior —estar solo, apartado, sin nadie más— puede ser idéntica. Lo que las distingue por completo es hacia dónde apunta esa soledad.
 
@@ -84,7 +84,7 @@ Incluso en la psicología secular se ha comprendido el poder regenerador de este
 Antes de seguir, una aclaración necesaria: no todo momento a solas cae dentro del binomio de retirarse-hacia-Dios o esconderse-de-algo que exploramos en 4.2.2. Existe también la soledad neutra — el descanso simple, la pausa de una persona introvertida que necesita silencio para recargarse, el tiempo a solas sin ninguna carga espiritual ni evasiva. El propio Jesús reconoció esa necesidad pura de descanso cuando les dijo a sus discípulos:
 
 > *«Venid vosotros aparte a un lugar desierto, y descansad un poco.»*
-> **Marcos 6:31 (RVR1960)**
+> **(Marcos 6:31, RVR1960)**
 
 Este módulo se concentra en la soledad elegida como disciplina hacia Dios — pero si tu último rato a solas fue, simplemente, descanso, no tienes por qué cargarlo con la pregunta de si estabas huyendo de algo.
 
@@ -137,7 +137,7 @@ Al día siguiente, sin que nadie se lo pidiera, volvió a sentarse en la misma s
 Toda la soledad que exploramos antes de este módulo era algo de qué salir. Esta es distinta: es un lugar al que puedes volver, una y otra vez, no porque algo esté mal, sino porque ahí — en el desierto, en el silencio, en el espacio que decides no llenar de nada más — hay Alguien que ya te está esperando.
 
 > *«Estad quietos, y conoced que yo soy Dios.»*
-> **Salmo 46:10 (RVR1960)**
+> **(Salmo 46:10, RVR1960)**
 
 En el próximo módulo vamos a ver hacia dónde apunta, finalmente, todo este camino: no solo hacia el encuentro a solas con Dios, sino hacia la comunidad que Él mismo diseñó como respuesta al «no es bueno que el hombre esté solo» con el que empezó este libro.
 

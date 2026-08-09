@@ -31,12 +31,12 @@ Si alguna vez llegaste a algo que perseguiste durante años, y en lugar de la pl
 Hace tres mil años, un hombre con más recursos que casi cualquier persona que haya existido decidió hacer, deliberadamente, el experimento que la mayoría de nosotros hace sin darse cuenta: perseguir todo lo que el mundo ofrece como fuente de sentido, y ver si de verdad lo llenaba.
 
 > *«No negué a mis ojos ninguna cosa que desearan, ni aparté mi corazón de placer alguno, porque mi corazón gozó de todo mi trabajo; y esta fue mi parte de toda mi faena.»*
-> **Eclesiastés 2:10 (RVR1960)**
+> **(Eclesiastés 2:10, RVR1960)**
 
 Salomón no se privó de nada. Construyó casas, plantó viñas, hizo huertos y jardines, se rodeó de siervos, ganado, plata y oro más que cualquier rey antes que él, cultivó el placer, la sabiduría, el logro. Tenía, literalmente, todo lo que este mundo puede ofrecer. Y al final de ese experimento minucioso, su conclusión no deja espacio para la ambigüedad:
 
 > *«Miré yo luego todas las obras que habían hecho mis manos, y el trabajo que tomé para hacerlas; y he aquí, todo era vanidad y aflicción de espíritu, y sin provecho debajo del sol.»*
-> **Eclesiastés 2:11 (RVR1960)**
+> **(Eclesiastés 2:11, RVR1960)**
 
 *Vanidad de vanidades* — así abre el libro entero (Ecl 1:2), y no es un lamento de alguien que fracasó. Es el testimonio de alguien que triunfó en todo lo que se propuso, y descubrió que el triunfo, por sí solo, no llenaba nada.
 
@@ -45,7 +45,7 @@ Vale la pena que te preguntes, antes de seguir, con qué derecho el testimonio d
 Hay una razón que el propio libro nombra más adelante, y que es, quizás, la clave teológica de todo este módulo:
 
 > *«Todo lo hizo hermoso en su tiempo; y ha puesto eternidad en el corazón de ellos, sin que alcance el hombre a entender la obra que ha hecho Dios desde el principio hasta el fin.»*
-> **Eclesiastés 3:11 (RVR1960)**
+> **(Eclesiastés 3:11, RVR1960)**
 
 Dios puso eternidad en tu corazón. Eso significa que fuiste diseñado con una capacidad de anhelo que ninguna cosa finita —ni una casa, ni un logro, ni un puesto, ni un placer, por grande que sea— puede llenar del todo, porque tu corazón fue hecho para algo más grande que cualquiera de esas cosas. No es un defecto de fabricación que nada te baste del todo. Es, exactamente, el diseño original.
 
@@ -56,17 +56,17 @@ Vale la pena reconocer, con la misma honestidad, que existe otra manera de expli
 Si Eclesiastés te da el diagnóstico desde la distancia de la reflexión, el Evangelio de Marcos te lo muestra en el rostro de una sola persona. Un joven, próspero y moralmente disciplinado, corre hacia Jesús con una pregunta que revela, sin que él lo sepa todavía, que algo en su interior ya sospecha que le falta algo:
 
 > *«Y al salir él para seguir su camino, vino uno corriendo, e hincando la rodilla delante de él, le preguntó: Maestro bueno, ¿qué haré para heredar la vida eterna?»*
-> **Marcos 10:17 (RVR1960)**
+> **(Marcos 10:17, RVR1960)**
 
 Cuando Jesús le recuerda los mandamientos, el joven responde sin vacilar: todos, desde su juventud, los ha guardado. No está mintiendo — no hay ninguna indicación en el texto de que sea hipócrita. Es, genuinamente, un hombre bueno, disciplinado, exitoso. Y sin embargo corrió hasta Jesús con una urgencia que no tiene sentido en alguien que ya se siente completo. Jesús ve exactamente lo que le falta, y se lo dice con una mezcla de precisión y ternura que el texto no deja pasar por alto:
 
 > *«Entonces Jesús, mirándole, le amó, y le dijo: Una cosa te falta: anda, vende todo lo que tienes, y dalo a los pobres, y tendrás tesoro en el cielo; y ven, sígueme, tomando tu cruz.»*
-> **Marcos 10:21 (RVR1960)**
+> **(Marcos 10:21, RVR1960)**
 
 No es un examen que el joven repruebe por maldad. Es un espejo que le muestra que toda su riqueza —el equivalente antiguo de la carrera de Julián, del logro que se persigue durante años— se había convertido, sin que él lo planeara, en aquello de lo que dependía su identidad. Y cuando se le pide soltarlo, la respuesta no es rabia ni rebeldía. Es tristeza:
 
 > *«Pero él, afligido por esta palabra, se fue triste, porque tenía muchas posesiones.»*
-> **Marcos 10:22 (RVR1960)**
+> **(Marcos 10:22, RVR1960)**
 
 Se fue triste teniendo todo. Ese detalle es el corazón de este módulo.
 
@@ -103,7 +103,7 @@ Esto no es un lamento generacional ni una acusación. Es, sencillamente, el mism
 Lo notable de Eclesiastés no es que se quede atrapado en la desesperación. Después de recorrer, uno por uno, todos los caminos que prometían sentido y no lo dieron, el libro termina con una conclusión que no es resignación, sino dirección:
 
 > *«El fin de todo el discurso oído es este: Teme a Dios, y guarda sus mandamientos; porque esto es el todo del hombre.»*
-> **Eclesiastés 12:13 (RVR1960)**
+> **(Eclesiastés 12:13, RVR1960)**
 
 No dice «renuncia a todo lo que tienes» —eso fue específico para el joven rico, no una receta universal—. Dice algo más amplio: el sentido no se encuentra multiplicando lo finito, sino orientando la vida entera hacia lo que la trasciende. La eternidad que Dios puso en tu corazón (Ecl 3:11) no se llena con más de lo mismo. Se llena reconectando tu vida —tu trabajo, tus logros, tus relaciones, tus decisiones diarias— con algo que sí está a la altura de esa eternidad.
 
@@ -139,7 +139,7 @@ Un viernes, en lugar de quedarse hasta tarde revisando un contrato que podía es
 Si lo que has estado cargando no es tanto la ausencia de alguien, sino la ausencia de una razón —si tu vacío se parece más al de Salomón que al de Agar—, quédate con esto: la misma eternidad que Dios puso en tu corazón y que ninguna cosa finita puede llenar, es la prueba de que fuiste hecho para algo que sí puede.
 
 > *«Y conoceréis la verdad, y la verdad os hará libres.»*
-> **Juan 8:32 (RVR1960)**
+> **(Juan 8:32, RVR1960)**
 
 En el próximo módulo vamos a explorar una soledad completamente distinta a todas las que hemos visto hasta ahora: la que Jesús mismo buscaba, deliberadamente, cuando se apartaba de la multitud. No toda soledad es una herida por sanar. Hay una que hay que aprender a elegir.
 

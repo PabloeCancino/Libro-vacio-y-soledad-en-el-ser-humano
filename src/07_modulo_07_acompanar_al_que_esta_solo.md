@@ -29,7 +29,7 @@ Si te reconoces en Renata, este módulo es para ti. Todo lo que has aprendido en
 Cuando los tres amigos de Job se enteran de todo lo que ha perdido —sus hijos, sus bienes, su salud—, hacen algo que casi nadie hace hoy con la misma disciplina:
 
 > *«Y viniendo, cada uno de por sí, Elifaz temanita, Bildad suhita y Zofar naamatita… se sentaron con él en tierra siete días y siete noches, y ninguno le hablaba palabra, porque veían que su dolor era muy grande.»*
-> **Job 2:11, 13 (RVR1960)**
+> **(Job 2:11, 13, RVR1960)**
 
 Siete días. Sin hablar. Solo estando ahí. No llegaron con explicaciones, no llegaron con versículos para «animarlo», no llegaron a llenar el silencio con nada. Vieron que su dolor era demasiado grande para las palabras, y respondieron con lo único que ese tamaño de dolor puede recibir sin sentirse invadido: presencia callada, sostenida, sin agenda.
 
@@ -40,7 +40,7 @@ Vale la pena decir, con la misma honestidad con la que este libro ha tratado cad
 Pero la presencia silenciosa no es la única forma de acompañamiento que enseña la Escritura. Hay un momento, en la historia de David, en que está escondido en el desierto de Zif, perseguido por Saúl, en uno de los periodos más solitarios y peligrosos de toda su vida. Y entonces aparece alguien:
 
 > *«Y se levantó Jonatán hijo de Saúl, y vino a David al bosque, y fortaleció su mano en Dios.»*
-> **1 Samuel 23:16 (RVR1960)**
+> **(1 Samuel 23:16, RVR1960)**
 
 Jonatán no se queda esperando a que David lo busque. *Se levanta* y *va* — el mismo movimiento activo que viste en el Módulo 6. Y lo que hace, al llegar, no es sentarse en silencio: le recuerda a David, con palabras concretas, la fidelidad de Dios sobre su vida (1 S 23:17). Fortalece su mano en Dios — una imagen preciosa: no le da a David una solución para su problema con Saúl, ni le resuelve el peligro en el que está. Le devuelve, con su presencia y sus palabras, la fuerza para seguir sosteniendo lo que ya estaba cargando.
 
@@ -49,7 +49,7 @@ Jonatán no se queda esperando a que David lo busque. *Se levanta* y *va* — el
 Hay todavía una tercera forma de acompañar que ni el silencio de Job ni la palabra de Jonatán cubren del todo. Después de huir de Jezabel, agotado y queriendo morir, Elías se tumba bajo un enebro en el desierto. Dios no le envía, en ese primer momento, ni silencio ni un discurso de ánimo:
 
 > *«Y echándose debajo del enebro, se quedó dormido; y he aquí luego un ángel le tocó, y le dijo: Levántate, come… Y volviendo el ángel de Jehová la segunda vez, lo tocó, diciendo: Levántate y come, porque largo camino te resta.»*
-> **1 Reyes 19:5, 7 (RVR1960)**
+> **(1 Reyes 19:5, 7, RVR1960)**
 
 Antes de cualquier palabra o silencio, hay pan caliente y agua. El ángel no le pregunta a Elías cómo se siente ni le recuerda las promesas de Dios — todavía no. Primero lo alimenta. El servicio práctico y silencioso —cocinar, hacer un trámite, cuidar de los hijos de alguien mientras esa persona no puede— es, tanto como el silencio de Job y la palabra de Jonatán, una forma legítima y completa de acompañar, no solo un gesto secundario mientras llega la conversación de verdad.
 
@@ -119,7 +119,7 @@ Renata volvió a buscarla dos semanas después, sin que nadie se lo recordara. Y
 Empezaste este libro con una pregunta sobre el vacío antes del orden y la soledad dentro de un mundo ya bueno. Lo terminas —antes de los apéndices que cierran el volumen— con la misma verdad aplicada ahora hacia afuera: así como tú no fuiste hecho para cargar esto solo, tampoco nadie a tu alrededor lo fue.
 
 > *«Gozaos con los que se gozan; llorad con los que lloran.»*
-> **Romanos 12:15 (RVR1960)**
+> **(Romanos 12:15, RVR1960)**
 
 ---
 

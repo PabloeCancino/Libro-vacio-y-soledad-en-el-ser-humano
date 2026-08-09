@@ -29,7 +29,7 @@ Estas dos experiencias se parecen, y por eso las confundimos todo el tiempo. Per
 La primera descripción que la Escritura hace de la creación no es de belleza ni de orden. Es de vacío.
 
 > *«Y la tierra estaba desordenada y vacía, y las tinieblas estaban sobre la faz del abismo, y el Espíritu de Dios se movía sobre la faz de las aguas.»*
-> **Génesis 1:2 (RVR1960)**
+> **(Génesis 1:2, RVR1960)**
 
 En el hebreo original, la expresión es *tohu va-bohu* — desordenada y vacía. Vale la pena decir con honestidad qué es y qué no es este vacío: es un vacío cósmico, material sin forma antes del tiempo, antes de la luz, antes de cualquier criatura. No es, todavía, el vacío que tú sientes un domingo por la tarde. Pero el patrón que revela sí ilumina tu experiencia, y por eso empezamos aquí.
 
@@ -42,7 +42,7 @@ Fíjate ahora en cómo Dios responde a ese vacío. No lo cubre. No finge que no 
 Forma primero. Contenido después. Orden, y luego sentido — cada cosa puesta en su lugar, y luego cada lugar habitado con propósito. Y al final de ese proceso, el texto no dice simplemente que el vacío desapareció. Dice algo más fuerte:
 
 > *«Y vio Dios todo lo que había hecho, y he aquí que era bueno en gran manera.»*
-> **Génesis 1:31 (RVR1960)**
+> **(Génesis 1:31, RVR1960)**
 
 El vacío cosmológico no se resolvió con más espacio, ni con más tiempo. Se resolvió con orden y con sentido — con cada cosa en su lugar, cumpliendo aquello para lo que fue puesta. Guarda esa fórmula, porque es la clave de todo este módulo: **lo que estaba vacío se llenó dándole forma y propósito.**
 
@@ -66,7 +66,7 @@ Aplícalo un momento a tu propia vida: llenar un vacío no es simplemente ocupar
 Aquí es donde el relato da un giro que casi siempre se lee demasiado rápido. Después de que todo fue declarado «bueno en gran manera» —después de que el vacío cósmico quedó completamente resuelto—, Dios mira algo dentro de esa creación perfecta y dice que no está bien.
 
 > *«Y dijo Jehová Dios: No es bueno que el hombre esté solo; le haré ayuda idónea para él.»*
-> **Génesis 2:18 (RVR1960)**
+> **(Génesis 2:18, RVR1960)**
 
 Detente ahí un momento. Esto no ocurre en medio del caos. Ocurre después del veredicto de «bueno en gran manera». El hombre no está desordenado. No le falta propósito: acaba de recibir el encargo de labrar y guardar el huerto (Gn 2:15), tiene autoridad delegada sobre la creación (Gn 1:26-28), y camina en comunión directa con Dios. Si el vacío fuera lo mismo que la soledad, este versículo no debería existir — todo lo que resuelve el vacío ya estaba resuelto.
 
@@ -77,7 +77,7 @@ La expresión hebrea que traducimos tradicionalmente como «ayuda idónea» es *
 Lo que sigue es aún más revelador. Dios trae ante el hombre a cada animal, y el hombre les pone nombre —un acto de autoridad y de discernimiento, no un simple trámite—. Pero el texto cierra esa escena con una frase que no puedes leer sin sentir su peso:
 
 > *«Y puso Adán nombres a toda bestia y ave de los cielos y a todo ganado del campo; mas para Adán no se halló ayuda idónea para él.»*
-> **Génesis 2:20 (RVR1960)**
+> **(Génesis 2:20, RVR1960)**
 
 Adán no descubre su soledad reflexionando en abstracto. La descubre comparándose: recorre uno por uno a los seres vivos que Dios puso delante de él, y en ninguno encuentra un correspondiente de su misma naturaleza. Es la única criatura hecha a imagen y semejanza de Dios (Gn 1:26) entre seres de una naturaleza distinta a la suya.
 
@@ -166,7 +166,7 @@ Daniela ha estado tratando un vacío de sentido con el remedio que le funcionar�
 No importa cuál de las dos cosas estés cargando hoy —vacío, soledad, o ambas a la vez—, hay algo que quiero que sepas antes de seguir leyendo: el mismo Dios que ordenó lo que estaba desordenado y llenó lo que estaba vacío es el que dijo, de tu soledad, que a Él tampoco le parece buena.
 
 > *«No te desampararé, ni te dejaré.»*
-> **Hebreos 13:5 (RVR1960)**
+> **(Hebreos 13:5, RVR1960)**
 
 ---
 
