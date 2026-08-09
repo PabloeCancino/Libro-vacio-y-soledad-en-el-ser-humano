@@ -1,0 +1,16 @@
+[book]
+title = "Vacío y Soledad en el Ser Humano"
+authors = ["Dr. Pablo Eduardo Cancino Marentes"]
+description = "Distinción ontológica, anatomía de la vacuidad y caminos de restauración en la experiencia bíblica y contemporánea"
+language = "es"
+src = "src"
+
+[output.html]
+default-theme = "light"
+preferred-dark-theme = "navy"
+git-repository-url = "https://github.com/PabloeCancino/vacio-y-soledad-en-el-ser-humano"
+edit-url-template = "https://github.com/PabloeCancino/vacio-y-soledad-en-el-ser-humano/edit/main/{path}"
+
+[output.html.search]
+enable = true
+limit-results = 20
