@@ -163,5 +163,31 @@ En el próximo módulo vamos a mirar una forma distinta de vacío: la que no vie
 
 ---
 
+## Fuentes de este módulo
+
+**[1]** La teoría del apego y la necesidad biológica de cercanía y protección en momentos de alta vulnerabilidad, base de la lectura de la escena de Agar en el desierto: Bowlby, J. (1969). *Attachment and Loss, Vol. 1: Attachment*. Hogarth Press.
+
+**[2]** El concepto de «entorno de sostén» (*holding environment*): la certeza, construida por presencia repetida, de que hay alguien capaz de sostenerte cuando no puedes sostenerte solo: Winnicott, D. W. (1960). The theory of the parent-infant relationship. *International Journal of Psycho-Analysis*, *41*, 585–595.
+
+**[3]** El concepto de «indefensión aprendida»: cuando la experiencia repetida de no poder controlar una situación dolorosa enseña que los propios esfuerzos no cambian nada, y esa lección se generaliza a contextos nuevos: Seligman, M. E. P. (1972). Learned helplessness. *Annual Review of Medicine*, *23*, 407–412.
+
+**[4]** La descripción de la negligencia emocional infantil como una ausencia constante y silenciosa de reconocimiento, sin un evento traumático único que la explique: Webb, J. (2012). *Running on Empty: Overcome Your Childhood Emotional Neglect*. Morgan James Publishing.
+
+**[5]** El estudio de cómo los niños criados en ese silencio aprenden a leer las expectativas ajenas mientras dejan de atender sus propias necesidades: Miller, A. (1979). *Das Drama des begabten Kindes*. Suhrkamp Verlag. [Edición en español: *El drama del niño dotado*. Tusquets.]
+
+**[6]** La explicación de por qué la ausencia sostenida de reconocimiento erosiona el valor que una persona se da a sí misma: Branden, N. (1994). *The Six Pillars of Self-Esteem*. Bantam Books.
+
+**[7]** La distinción entre «vínculos débiles» (conocidos, colegas, contactos) y «vínculos fuertes» (el pequeño número de personas que conocen tu historia completa): Granovetter, M. S. (1973). The strength of weak ties. *American Journal of Sociology*, *78*(6), 1360–1380.
+
+**[8]** El hallazgo de que el aislamiento social crónico tiene un impacto en el riesgo de mortalidad comparable al de fumar hasta quince cigarrillos al día, y de que cerca de la mitad de los adultos estadounidenses reporta sentir soledad de forma medible, junto con la caída documentada del tiempo de convivencia presencial entre jóvenes de 15 a 24 años en las últimas dos décadas: Oficina del Cirujano General de los Estados Unidos / Murthy, V. H. (2023). *Our Epidemic of Loneliness and Isolation: The U.S. Surgeon General's Advisory on the Healing Effects of Social Connection and Community*. U.S. Department of Health and Human Services. https://www.hhs.gov/sites/default/files/surgeon-general-social-connection-advisory.pdf
+
+**[9]** La medición de la soledad autorreportada por grupo de edad citada en el texto como «el Índice de Soledad de Cigna» — una encuesta de mercado, no una investigación académica revisada por pares, por lo que se presenta aquí como dato de contexto y no como evidencia científica primaria—: Cigna. (2018). *Cigna U.S. Loneliness Index: Survey of 20,000 Americans Examining Behaviors Driving Loneliness in the United States*. Cigna Corporation.
+
+**[10]** El respaldo académico revisado por pares al mismo patrón que describe el Índice de Cigna —una curva de soledad con un pico marcado en la adultez joven, no solo en la vejez—, con base en una muestra longitudinal representativa a nivel nacional: Luhmann, M., y Hawkley, L. C. (2016). Age differences in loneliness from late adolescence to oldest old age. *Developmental Psychology*, *52*(6), 943–959. https://doi.org/10.1037/dev0000117
+
+**[11]** El estudio de cómo la tecnología ofrece la ilusión de compañía sin las exigencias de la amistad real, permitiendo editar las relaciones y evitar la vulnerabilidad del encuentro cara a cara: Turkle, S. (2011). *Alone Together: Why We Expect More from Technology and Less from Each Other*. Basic Books.
+
+---
+
 *Módulo 2 — La Soledad y el Vacío en el Ser Humano*
 *Dr. Pablo Eduardo Cancino Marentes — 2026*

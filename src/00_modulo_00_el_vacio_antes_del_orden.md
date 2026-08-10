@@ -170,5 +170,19 @@ No importa cuál de las dos cosas estés cargando hoy —vacío, soledad, o amba
 
 ---
 
+## Fuentes de este módulo
+
+**[1]** La lectura estructural de los seis días de la creación como dos tríadas paralelas de «formar» (días 1–3) y «llenar» (días 4–6) — la *hipótesis del marco* o *Framework Hypothesis* —, popularizada por Meredith G. Kline y desarrollada también por Henri Blocher: Kline, M. G. (1958). Because it had not rained. *Westminster Theological Journal*, *20*(2), 146–157; Blocher, H. (1984). *In the Beginning: The Opening Chapters of Genesis* (D. G. Preston, Trad.). InterVarsity Press. (Obra original publicada en francés en 1979 como *Révélation des origines: le début de la Genèse*).
+
+**[2]** La distinción clínica entre aislamiento emocional —la ausencia de una figura primaria de apego e intimidad— y aislamiento social —la falta de una red comunitaria—, que este módulo usa como correlato psicológico de la distinción bíblica entre vacío y soledad: Weiss, R. S. (1973). *Loneliness: The Experience of Emotional and Social Isolation*. MIT Press.
+
+**[3]** La teoría del apego como marco para entender la necesidad humana de vínculo, mencionada en diálogo con la lectura bíblica de este módulo: Bowlby, J. (1969). *Attachment and Loss, Vol. 1: Attachment*. Hogarth Press.
+
+**[4]** El concepto de «vacío existencial» como frustración de la voluntad de sentido: Frankl, V. E. (1946). *Ein Psycholog erlebt das Konzentrationslager*. Verlag für Jugend und Volk. [Edición en español: *El hombre en busca de sentido*. Herder.]
+
+**[5]** La teoría de la individuación y el proceso de convertirse en un ser psíquico completo, referida aquí como marco clínico que este libro retoma con más detalle en los Módulos 1 y 3: Jung, C. G. (1964). *Man and His Symbols*. Doubleday. [Edición en español: *El hombre y sus símbolos*. Paidós.]
+
+---
+
 *Módulo 0 — La Soledad y el Vacío en el Ser Humano*
 *Dr. Pablo Eduardo Cancino Marentes — 2026*

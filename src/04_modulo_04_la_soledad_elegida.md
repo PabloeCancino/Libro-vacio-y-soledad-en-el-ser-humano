@@ -143,5 +143,13 @@ En el próximo módulo vamos a ver hacia dónde apunta, finalmente, todo este ca
 
 ---
 
+## Fuentes de este módulo
+
+**[1]** El retiro periódico de Carl Jung a su torre de Bollingen, a orillas del lago de Zúrich, como espacio deliberado de encuentro consigo mismo y con su mundo interior, sin distracciones externas: Jung, C. G. (1963). *Memories, Dreams, Reflections* (A. Jaffé, Ed.; R. Winston y C. Winston, Trads.). Pantheon Books. (Obra original publicada en alemán en 1962 como *Erinnerungen, Träume, Gedanken*). [Edición en español: *Recuerdos, sueños, pensamientos*. Seix Barral.]
+
+**[2]** La práctica de cultivar la presencia de Dios en medio de las tareas cotidianas más ordinarias, usada como testimonio de que el retiro voluntario no exige un espacio geográfico especial: Hermano Lorenzo de la Resurrección [Nicolas Herman]. (1692). *La pratique de la présence de Dieu* (J. de Beaufort, Comp.). [Edición en español: *La práctica de la presencia de Dios*. Editorial CLIE.]
+
+---
+
 *Módulo 4 — La Soledad y el Vacío en el Ser Humano*
 *Dr. Pablo Eduardo Cancino Marentes — 2026*

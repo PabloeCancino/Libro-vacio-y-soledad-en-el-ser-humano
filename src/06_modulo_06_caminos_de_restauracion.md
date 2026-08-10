@@ -144,5 +144,11 @@ En el próximo módulo vamos a hablar de algo que probablemente ya te ha pasado 
 
 ---
 
+## Fuentes de este módulo
+
+**[1]** El concepto de integración de la sombra —hacer las paces con los propios errores, limitaciones e ideales incumplidos como parte de la sanidad de la segunda mitad de la vida—: Jung, C. G. (1951). *Aion: Researches into the Phenomenology of the Self* (R. F. C. Hull, Trad.). Routledge & Kegan Paul. [Edición en español: *Aion: contribuciones al simbolismo del sí-mismo*. Paidós.]
+
+---
+
 *Módulo 6 — La Soledad y el Vacío en el Ser Humano*
 *Dr. Pablo Eduardo Cancino Marentes — 2026*

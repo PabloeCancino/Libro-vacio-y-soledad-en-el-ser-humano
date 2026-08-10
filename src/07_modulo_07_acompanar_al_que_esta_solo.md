@@ -123,5 +123,13 @@ Empezaste este libro con una pregunta sobre el vacío antes del orden y la soled
 
 ---
 
+## Fuentes de este módulo
+
+**[1]** Los criterios para distinguir un malestar que el acompañamiento cotidiano puede sostener de uno que requiere intervención clínica especializada —depresión, riesgo de autolesión, incapacidad funcional sostenida, uso creciente de sustancias—: Organización Mundial de la Salud. (2016). *mhGAP Intervention Guide for Mental, Neurological and Substance Use Disorders in Non-Specialized Health Settings, Version 2.0*. World Health Organization. https://www.who.int/publications/i/item/9789241549790
+
+**[2]** Los criterios diagnósticos de referencia usados por profesionales de salud mental para evaluar trastornos depresivos, de ansiedad y relacionados con el trauma, citados aquí solo como marco de derivación y no como herramienta de autodiagnóstico: American Psychiatric Association. (2022). *Diagnostic and Statistical Manual of Mental Disorders* (5.ª ed., texto revisado [DSM-5-TR]). American Psychiatric Publishing.
+
+---
+
 *Módulo 7 — La Soledad y el Vacío en el Ser Humano*
 *Dr. Pablo Eduardo Cancino Marentes — 2026*

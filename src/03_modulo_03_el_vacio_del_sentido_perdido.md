@@ -145,5 +145,19 @@ En el próximo módulo vamos a explorar una soledad completamente distinta a tod
 
 ---
 
+## Fuentes de este módulo
+
+**[1]** El fenómeno de la adaptación hedónica: la tendencia del bienestar subjetivo a regresar, con el tiempo, a un punto de partida relativamente estable tras cualquier logro o pérdida: Brickman, P., y Campbell, D. T. (1971). Hedonic relativism and planning the good society. En M. H. Appley (Ed.), *Adaptation-Level Theory: A Symposium* (pp. 287–305). Academic Press.
+
+**[2]** La logoterapia y la «voluntad de sentido» como necesidad humana tan real como el hambre o la sed: Frankl, V. E. (1946). *Ein Psycholog erlebt das Konzentrationslager*. Verlag für Jugend und Volk. [Edición en español: *El hombre en busca de sentido*. Herder.]; Frankl, V. E. (1969). *The Will to Meaning: Foundations and Applications of Logotherapy*. New American Library. [Edición en español: *La voluntad de sentido*. Herder.]
+
+**[3]** La observación clínica de que la mayoría de los pacientes de Jung en la segunda mitad de la vida no padecían una neurosis convencional sino una crisis de significado: Jung, C. G. (1938). *Psychology and Religion* (The Terry Lectures). Yale University Press. [Edición en español: *Psicología y religión*. Paidós.]; Jung, C. G. (1964). *Man and His Symbols*. Doubleday. [Edición en español: *El hombre y sus símbolos*. Paidós.]
+
+**[4]** El dato de que la proporción de adolescentes y jóvenes adultos estadounidenses que reporta un episodio de depresión mayor en el último año se duplicó entre 2011 y 2019, en el periodo de mayor acceso material y tecnológico de su historia: Twenge, J. M. (2017). *iGen: Why Today's Super-Connected Kids Are Growing Up Less Rebellious, More Tolerant, Less Happy—and Completely Unprepared for Adulthood*. Atria Books.
+
+**[5]** El hallazgo de que, en catorce de diecisiete economías avanzadas encuestadas, la familia encabeza las fuentes de sentido mencionadas espontáneamente, mientras que la fe o la religión rara vez aparece entre las diez respuestas más comunes fuera de Estados Unidos: Pew Research Center. (2021, 18 de noviembre). *What Makes Life Meaningful? Views From 17 Advanced Economies*. Pew Research Center. https://www.pewresearch.org/global/2021/11/18/what-makes-life-meaningful-views-from-17-advanced-economies/
+
+---
+
 *Módulo 3 — La Soledad y el Vacío en el Ser Humano*
 *Dr. Pablo Eduardo Cancino Marentes — 2026*

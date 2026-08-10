@@ -57,7 +57,7 @@ Para acompañarte en este proceso, la obra está organizada en tres movimientos 
 - **La comunidad de pacto (Módulo 5):** Redefine la respuesta a la soledad más allá del matrimonio, mostrando cómo se construye en la práctica una comunidad de mesa compartida y cuidado mutuo.
 - **El camino de restauración (Módulo 6):** Ofrece un itinerario de seis pasos prácticos —desde la honestidad del autoexamen hasta el propósito recuperado— para sanar historias de aislamiento y vacío.
 - **El arte de acompañar (Módulo 7):** Establece los protocolos de presencia, palabra y servicio para sostener a otros, fijando con claridad los límites pastorales y los criterios de derivación a profesionales de la salud mental.
-- **Apéndices (A a D):** Proporcionan un glosario de términos de precisión, una guía de trabajo para ocho sesiones en grupo o estudio individual, un directorio de recursos clínicos y la nota final del autor.
+- **Apéndices (A a E):** Proporcionan un glosario de términos de precisión, una guía de trabajo para ocho sesiones en grupo o estudio individual, un directorio de recursos clínicos, la bibliografía consolidada de todas las fuentes citadas a lo largo del libro y la nota final del autor.
 
 ---
 

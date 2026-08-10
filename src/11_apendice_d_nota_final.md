@@ -1,4 +1,4 @@
-# APÉNDICE D: NOTA FINAL
+# APÉNDICE E: NOTA FINAL
 
 Gracias por llegar hasta aquí.
 
@@ -15,4 +15,4 @@ Que el Dios que llena lo vacío y acompaña al solitario siga siendo, para ti, e
 
 ---
 
-*Apéndice D — La Soledad y el Vacío en el Ser Humano*
+*Apéndice E — La Soledad y el Vacío en el Ser Humano*

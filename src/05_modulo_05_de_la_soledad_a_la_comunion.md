@@ -139,5 +139,13 @@ En el próximo módulo vamos a hablar de algo que quizás ya estás anticipando:
 
 ---
 
+## Fuentes de este módulo
+
+**[1]** La medición de cuánto tiempo de convivencia real hace falta para que dos adultos se conviertan en amigos —alrededor de cincuenta horas para pasar de conocidos a amigos casuales, noventa para una amistad estable y más de doscientas para una amistad cercana—: Hall, J. A. (2019). How many hours does it take to make a friend? *Journal of Social and Personal Relationships*, *36*(4), 1278–1296. https://doi.org/10.1177/0265407518761225
+
+**[2]** El hallazgo de que los círculos sociales tienden a crecer hasta los veinticinco años y a contraerse de forma constante después de esa edad salvo que se cultiven deliberadamente: Bhattacharya, K., Ghosh, A., Monsivais, D., Dunbar, R. I. M., y Kaski, K. (2016). Sex differences in social focus across the life cycle in humans. *Royal Society Open Science*, *3*(4), 160097. https://doi.org/10.1098/rsos.160097
+
+---
+
 *Módulo 5 — La Soledad y el Vacío en el Ser Humano*
 *Dr. Pablo Eduardo Cancino Marentes — 2026*

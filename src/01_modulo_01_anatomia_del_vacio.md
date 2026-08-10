@@ -241,5 +241,15 @@ En el próximo módulo vamos a explorar qué hacer cuando la soledad no es circu
 
 ---
 
+## Fuentes de este módulo
+
+**[1]** El hallazgo de que la intensidad del vacío que deja una pérdida depende de la profundidad del vínculo de apego roto, y no del reconocimiento social de esa pérdida: Bowlby, J. (1980). *Attachment and Loss, Vol. 3: Loss, Sadness and Depression*. Hogarth Press / Institute of Psycho-Analysis.
+
+**[2]** La cita de Carl Jung sobre no poder vivir «el atardecer de la vida con el programa de la mañana», usada aquí para ilustrar la crisis de identidad de la segunda mitad de la vida: Jung, C. G. (1933). The stages of life. En *Modern Man in Search of a Soul* (W. S. Dell y C. F. Baynes, Trads., pp. 95–114). Harcourt, Brace and Company. (Ensayo publicado originalmente en 1930-1931; recogido también en *Obra completa*, vol. 8).
+
+**[3]** El concepto de individuación —el proceso de convertirse en un ser psíquico completo e indivisible, distinto de las máscaras sociales construidas en la primera mitad de la vida—: Jung, C. G. (1964). *Man and His Symbols*. Doubleday. [Edición en español: *El hombre y sus símbolos*. Paidós.]
+
+---
+
 *Módulo 1 — La Soledad y el Vacío en el Ser Humano*
 *Dr. Pablo Eduardo Cancino Marentes — 2026*
