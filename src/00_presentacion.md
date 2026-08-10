@@ -27,6 +27,8 @@ Esta obra no es un tratado dogmático abstracto ni una guía de autoayuda superf
 
 **Dr. Pablo Eduardo Cancino Marentes — Agosto 2026**
 
+---
+
 *A Aquel que es nuestro verdadero Ezer y Paráclito,*  
 *que estuvo presente en el vacío antes de la luz*  
 *y permanece fiel en la comunión de su gracia.*
@@ -39,7 +41,7 @@ Este texto se publica bajo la licencia **[Creative Commons Atribución-NoComerci
 
 ## Cómo citar
 
-> Cancino Marentes, P. E. (2026). *Vacío y Soledad en el Ser Humano: Distinción ontológica, anatomía de la vacuidad y caminos de restauración*. Manuscrito publicado como borrador abierto en GitHub.
+> Cancino Marentes, P. E. (2026). *Vacío y Soledad en el Ser Humano: Distinción ontológica, anatomía de la vacuidad y caminos de restauración*. Manuscrito publicado como borrador abierto en GitHub. https://pabloecancino.github.io/vacio-y-soledad-en-el-ser-humano
 
 ## Contacto y retroalimentación
 
