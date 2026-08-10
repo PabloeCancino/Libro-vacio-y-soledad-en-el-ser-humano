@@ -20,6 +20,18 @@ Una obra autocontenida de investigación teológica y traducción pastoral que e
 
 La obra ofrece un mapa fenomenológico completo para identificar las distorsiones del cristal interior (la ventana empañada), el desamparo y la indiferencia del entorno, la vanidad del éxito inmanente, el valor de la soledad elegida como disciplina contemplativa, el remedio de la comunidad de pacto y el itinerario espiritual-pastoral de seis pasos hacia la restauración y el acompañamiento sabio del doliente.
 
+## Descargas
+
+Cada vez que se actualiza el contenido en `src/`, un flujo de trabajo de GitHub Actions ([`build-ebooks.yml`](.github/workflows/build-ebooks.yml)) recompila el libro completo y publica las tres versiones descargables en la [sección de Releases](https://github.com/PabloeCancino/vacio-y-soledad-en-el-ser-humano/releases/tag/ebook) de este repositorio. Los enlaces de abajo apuntan siempre a la versión más reciente:
+
+| Formato | Enlace de descarga | Uso recomendado |
+|---|---|---|
+| 📄 PDF | [libro.pdf](https://github.com/PabloeCancino/vacio-y-soledad-en-el-ser-humano/releases/download/ebook/libro.pdf) | Lectura en computadora o para imprimir |
+| 📖 EPUB | [libro.epub](https://github.com/PabloeCancino/vacio-y-soledad-en-el-ser-humano/releases/download/ebook/libro.epub) | La mayoría de lectores de libros electrónicos (Apple Books, Google Play Books, etc.) |
+| 📱 Kindle (AZW3) | [libro.azw3](https://github.com/PabloeCancino/vacio-y-soledad-en-el-ser-humano/releases/download/ebook/libro.azw3) | Copiar directamente a un dispositivo Kindle por USB |
+
+**Para leerlo en un Kindle:** desde diciembre de 2022, el servicio "Enviar a Kindle" de Amazon acepta archivos EPUB directamente (ya no hace falta convertir a MOBI, formato que Amazon dejó de aceptar en marzo de 2025). La forma más simple es descargar `libro.epub` y enviarlo por correo a tu dirección `@kindle.com`, o usar la app/sitio "Enviar a Kindle". El archivo `libro.azw3` se ofrece como alternativa para quienes prefieren copiar el archivo directamente al dispositivo por cable USB.
+
 ## Índice
 
 | # | Sección |
