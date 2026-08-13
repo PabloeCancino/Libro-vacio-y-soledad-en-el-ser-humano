@@ -22,7 +22,7 @@ La obra ofrece un mapa fenomenológico completo para identificar las distorsione
 
 ## Descargas
 
-Cada vez que se actualiza el contenido en `src/`, un flujo de trabajo de GitHub Actions ([`build-ebooks.yml`](.github/workflows/build-ebooks.yml)) recompila el libro completo y publica las tres versiones descargables en la [sección de Releases](https://github.com/PabloeCancino/vacio-y-soledad-en-el-ser-humano/releases/tag/ebook) de este repositorio. Los enlaces de abajo apuntan siempre a la versión más reciente:
+Cada vez que se actualiza el contenido en `src/`, un flujo de trabajo de GitHub Actions ([`build-ebooks.yml`](https://github.com/PabloeCancino/vacio-y-soledad-en-el-ser-humano/blob/main/.github/workflows/build-ebooks.yml)) recompila el libro completo y publica las tres versiones descargables en la [sección de Releases](https://github.com/PabloeCancino/vacio-y-soledad-en-el-ser-humano/releases/tag/ebook) de este repositorio. Los enlaces de abajo apuntan siempre a la versión más reciente:
 
 | Formato | Enlace de descarga | Uso recomendado |
 |---|---|---|
@@ -50,7 +50,8 @@ Cada vez que se actualiza el contenido en `src/`, un flujo de trabajo de GitHub 
 | A | [Apéndice A — Glosario de términos](src/08_apendice_a_glosario.md) |
 | B | [Apéndice B — Guía de sesiones para grupos pequeños](src/09_apendice_b_guia_de_sesiones.md) |
 | C | [Apéndice C — Recursos consolidados y lecturas recomendadas](src/10_apendice_c_recursos.md) |
-| D | [Apéndice D — Nota final del autor](src/11_apendice_d_nota_final.md) |
+| D | [Apéndice D — Fuentes consolidadas](src/10b_apendice_d_fuentes_consolidadas.md) |
+| E | [Apéndice E — Nota final del autor](src/11_apendice_e_nota_final.md) |
 
 ## Libro en formato mdBook
 

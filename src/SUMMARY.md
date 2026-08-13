@@ -15,4 +15,4 @@
 - [Apéndice B — Guía de sesiones](./09_apendice_b_guia_de_sesiones.md)
 - [Apéndice C — Recursos](./10_apendice_c_recursos.md)
 - [Apéndice D — Fuentes consolidadas](./10b_apendice_d_fuentes_consolidadas.md)
-- [Apéndice E — Nota final](./11_apendice_d_nota_final.md)
+- [Apéndice E — Nota final](./11_apendice_e_nota_final.md)
