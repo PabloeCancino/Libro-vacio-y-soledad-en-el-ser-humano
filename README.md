@@ -59,6 +59,12 @@ Cada vez que se actualiza el contenido en `src/`, un flujo de trabajo de GitHub 
 
 https://pabloecancino.github.io/vacio-y-soledad-en-el-ser-humano/
 
+## Nota sobre el uso de inteligencia artificial
+
+La autoría de esta obra corresponde al Dr. Pablo Eduardo Cancino Marentes. La tesis, la estructura, la postura teológica y la orientación de cada parte son decisiones del autor, quien orientó, revisó y aprobó la totalidad del texto y responde por su contenido.
+
+En la elaboración se utilizó Claude (Anthropic) como asistente de IA en labores de investigación, redacción y corrección editorial, así como en la gestión del repositorio en GitHub. Todas las acciones sugeridas por el asistente de IA fueron examinadas por el autor, que las aceptó, modificó o descartó para mantener la visión de la obra.
+
 ## Licencia
 
 Este texto se publica bajo **[Creative Commons Atribución-NoComercial-SinDerivadas 4.0 Internacional (CC BY-NC-ND 4.0)](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.es)**. Ver [LICENSE.md](LICENSE.md).
